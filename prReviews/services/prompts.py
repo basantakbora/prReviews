@@ -1,6 +1,5 @@
 CODE_REVIEW_PROMPT = """Please review the following code changes in this pull request. Focus on identifying potential:
 
-- go to each file and comment on the file
 -go to each file and check line by line and comment
 - Business logic errors or inconsistencies.
 - Potential bugs, including edge cases and error handling.
