@@ -1,5 +1,5 @@
-capability of the tool
-fetch the pr difference
-provide the differnce to gemini 
-process the request based on prompt 
+capability of the tool /n
+fetch the pr difference /n
+provide the differnce to gemini /n
+process the request based on prompt /n
 write comment into PR
